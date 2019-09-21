@@ -24,3 +24,4 @@ dataflow:> stream deploy --name log-data
 ```
 ## Resources
 - https://www.javainuse.com/spring/cloud-data-flow
+- https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/
